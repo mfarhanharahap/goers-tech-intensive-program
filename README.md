@@ -1,8 +1,10 @@
 # Goers-tech-intensive-program technical test
 
-## 1. Sort Data [link here](/other-exercise/sort-data-exercise.js)
+## 1. Sort Data 
+[link here](/other-exercise/sort-data-exercise.js)
 
-## 3. Movie Ticket [link here](/other-exercise/movie-ticket-exercise.js)
+## 3. Movie Ticket 
+[link here](/other-exercise/movie-ticket-exercise.js)
 
 ## 2. Data Aplication Product
 Goers node.js technical test built on:
